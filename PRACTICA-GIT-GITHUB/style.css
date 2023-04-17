@@ -13,6 +13,18 @@ header {
 	padding: 20px;
 }
 
+/* Estilos del logo y el titulo*/
+#logo{
+    width: 75px;
+    height: 75px;
+    margin-right: 10px;
+}
+
+.logoytitulo{
+    display: flex;
+    justify-content: center;
+}
+
 /* Estilos de la barra de navegación */
 nav {
 	background-color: #333;
