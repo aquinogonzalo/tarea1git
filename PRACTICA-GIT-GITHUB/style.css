@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
 /* Estilos generales de la página */
 body {
 	margin: 0;
@@ -5,6 +9,7 @@ body {
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 /* Estilos del encabezado */
@@ -62,4 +67,18 @@ footer {
 	color: #fff;
 	padding: 20px;
 	text-align: center;
+}
+
+/* Estilos del main */
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    display: flex;
+    width: 1000px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
