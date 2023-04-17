@@ -27,9 +27,10 @@ header {
 
 /* Estilos de la barra de navegación */
 nav {
-	background-color: #333;
+	background-color: #ffc8dd;
 	color: #fff;
 	padding: 10px;
+	border-radius: 10px;
 }
 
 nav ul {
@@ -57,7 +58,7 @@ section {
 
 /* Estilos del pie de página */
 footer {
-	background-color: #333;
+	background-color: #bde0fe;
 	color: #fff;
 	padding: 20px;
 	text-align: center;
